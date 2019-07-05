@@ -82,3 +82,10 @@
 ## Домашка
 
 [Домашнее задание](hw3.md)
+
+
+![](http://qaru.site/img/4c47ac86e81a82b9a90c255e9bf45ff5.png)
+
+
+https://tproger.ru/translations/python-data-types/
+
