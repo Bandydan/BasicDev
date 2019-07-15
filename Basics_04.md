@@ -1,4 +1,4 @@
-# Урок 4. Dive into Python :)
+# 4. Dive into Python :)
 
 
 ## Переменные в Python: определение, типы данных.
