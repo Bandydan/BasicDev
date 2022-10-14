@@ -150,16 +150,20 @@ run_operation(10, 5, minus) # 5
 Хранение функции в словаре:
 
 ```python
+def plus(num1, num2):
+    return num1 + num2
+
+minus = lambda num1, num2: num1 - num2
 
 functions_dict = {
-    'plus': plus,
-    'minus': minus
+    '+': plus,
+    '-': minus
 }
 
 def operation(num1, num2, func_dict, func_name):
     return func_dict[func_name](num1, num2)
 
-operation(2, 3, function_dict, 'plus')
+print(operation(2, 3, functions_dict, '-'))
 ```
 
 ### Лямбда выражения
